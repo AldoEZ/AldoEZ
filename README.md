@@ -14,10 +14,6 @@ I am a member and academic of CPCFI.
 
 <!-------------------------------------------------------------------------------------------------------------------->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AldoEZ&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/AldoEZ/github-readme-activity-graph)
-
-<!-------------------------------------------------------------------------------------------------------------------->
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AldoEZ&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="AldoEZ github stats" /> 
   
