@@ -52,7 +52,7 @@ I am a member and academic of CPCFI.
 <div align="center">
   <br><p align="center" style="color: #FFFFFF;"><b>Visitors Count 🤪</b></p>  
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" style="filter: invert(1);" />
+    <img align="center" src="https://profile-counter.glitch.me/{AldoEZ}/count.svg" style="filter: invert(1);" />
   </p> 
   <br>
 </div>
