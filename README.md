@@ -4,7 +4,7 @@
 <!-------------------------------------------------------------------------------------------------------------------->
 
 # About me
-I am currently in my fourth semester of Computer Engineering at UNAM.
+I am currently in my fifth semester of Computer Engineering at UNAM.
 
 My interests lie in Back-End, Databases, and Dynamic Programming.
 
