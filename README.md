@@ -15,6 +15,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="./assets/Hollow_Knight_Dance.gif" width="250" alt="Hollow Knight Dance"/>
+
 I'm a **Computer Engineering student at UNAM** with a strong interest in software engineering, backend development and algorithms.
 
 - 🎓 Computer Engineering at **Universidad Nacional Autónoma de México (UNAM)**
@@ -23,6 +25,8 @@ I'm a **Computer Engineering student at UNAM** with a strong interest in softwar
 - 🏆 **3× ICPC competitor**
 - 🐧 Linux enthusiast
 - 📍 Mexico City, Mexico
+
+<br clear="right"/>
 
 ---
 
@@ -34,6 +38,10 @@ Route-planning application developed in **C++**, using **Dijkstra's shortest pat
 ### ⚙️ CompiFlow
 Compiler project developed in **Java**, including lexical and syntactic analysis with an **LALR(1) parser**.
 
+### 📈 Quantitative Backtesting
+Python-based backtesting and financial analysis tools using:
+
+`Python` · `Pandas` · `NumPy` · `Polars` · `Matplotlib` · `scikit-learn`
 
 ---
 
@@ -70,12 +78,6 @@ Compiler project developed in **Java**, including lexical and syntactic analysis
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AldoEZ&theme=tokyonight" width="45%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AldoEZ&theme=tokyonight" width="45%"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AldoEZ&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AldoEZ&theme=tokyonight&utcOffset=-6" width="45%"/>
-
-
 </div>
 
 ---
@@ -91,6 +93,18 @@ Compiler project developed in **Java**, including lexical and syntactic analysis
 <a href="https://www.instagram.com/aldoez_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@aldoez_-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 Favorite Track
+
+**Center Mass — Twenty One Pilots**
+
+[![Spotify](https://img.shields.io/badge/Listen%20now-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m?autoplay_ok=1)
 
 </div>
 
