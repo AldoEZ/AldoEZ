@@ -1,50 +1,103 @@
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There;I'm+Aldo+EZ!)
+# Hi, I'm Aldo Estrada 👋
 
-<!-------------------------------------------------------------------------------------------------------------------->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+UNAM;Backend+%26+Data+Enthusiast;ICPC+Competitor;CPCFI+Member)](https://git.io/typing-svg)
 
-# About me
-I'm currently in my sixth semester of Computer Engineering at UNAM.
-
-My interests lie in Back-End, Databases and Dynamic Programming.
-
-I've competed three times in the ICPC, the largest and most prestigious university programming competition in the world.
-
-I'm a member and academic of CPCFI.
-
-<!-------------------------------------------------------------------------------------------------------------------->
-
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AldoEZ&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AldoEZ?label=Followers&style=for-the-badge" />
 </p>
 
-<!-------------------------------------------------------------------------------------------------------------------->
-
-<div align="center">
-  <a href="https://www.instagram.com/aldoez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-ez-bb3088324/)
 </div>
 
-<!-------------------------------------------------------------------------------------------------------------------->
+---
 
-<p align="center"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="48" title="Python">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="48" title="C">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="48" title="C++">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="Java">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="48" title="MySQL">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" width="48" title="LaTex">
-<p/>
+## 👨‍💻 About Me
 
-<!-------------------------------------------------------------------------------------------------------------------->
+I'm a **Computer Engineering student at UNAM** with a strong interest in software engineering, backend development and algorithms.
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+- 🎓 Computer Engineering at **Universidad Nacional Autónoma de México (UNAM)**
+- 💻 Focused on **Backend Development, Data Systems and Algorithms**
+- 🧠 Interested in **Competitive Programming, Backend Development and Software Engineering**
+- 🏆 **3× ICPC competitor**
+- 🐧 Linux enthusiast
+- 📍 Mexico City, Mexico
+
+---
+
+## 🚀 Featured Work
+
+### 🗺️ PUMAPS
+Route-planning application developed in **C++**, using **Dijkstra's shortest path algorithm** to compute optimal routes.
+
+### ⚙️ CompiFlow
+Compiler project developed in **Java**, including lexical and syntactic analysis with an **LALR(1) parser**.
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,js,ts,swift" />
+</p>
+
+### Backend & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,mysql" />
+</p>
+
+### Tools & Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,latex" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AldoEZ&theme=tokyonight" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AldoEZ&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AldoEZ&theme=tokyonight" width="45%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AldoEZ&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AldoEZ&theme=tokyonight&utcOffset=-6" width="45%"/>
+
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aldo-ez-bb3088324/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aldo%20Estrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/aldoez_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@aldoez_-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Learn. Build.
+
+</div>
